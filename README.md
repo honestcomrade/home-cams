@@ -1,0 +1,1 @@
+# basic configuration of a home IP camera using the node-onvif library
