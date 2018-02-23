@@ -1,6 +1,4 @@
-# basic configuration of a home IP camera using the node-onvif library
-
----
+## Basic layout of an automated home monitoring system using a variety of open standards
 
 ### Roadmap:
 
