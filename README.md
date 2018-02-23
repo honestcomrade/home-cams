@@ -2,7 +2,7 @@
 
 ### Goal:
 
-> To create a automated store of snapshots and video from a home camera which can be accessed from the web on any authorized client.
+> To create an automated store of snapshots and video from a home ip cam, which can be accessed from the web on any authorized client.
 
 
 ### Roadmap:
