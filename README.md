@@ -8,7 +8,10 @@
 ### Roadmap:
 
 ~~Mount Onvif ready IP Camera using 802.3at standard~~
+
 ~~Connect to the camera from a node server~~
+
 ~~Take snapshots from the camera and store them on an intermediary location~~
+
 Create a local storage on my home network to store these snapshots
 
